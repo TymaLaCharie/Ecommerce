@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "type": "Motor-cycle",
+      "vehicle": "Suzuki",
+      "description": "Description",
+      "price": "R",
+      "img": "https://res.cloudinary.com/tebza/image/upload/v1643972938/My-Shop/car5_crorvh.png"
+    },
+    {
+      "id": 2,
+      "type":"Private car",
+      "vehicle":"BMW",
+      "description": "Description",
+      "price": "R",
+      "img": "https://res.cloudinary.com/tebza/image/upload/v1643972915/My-Shop/car6_vtqbox.png"
+    },
+    {
+      "id": 3,
+      "type":"SUV",
+      "vehicle":"MercedesBenz",
+      "description": "Description",
+      "price": "R",
+      "img": "https://res.cloudinary.com/tebza/image/upload/v1643976750/My-Shop/car7_l1angd.png"
+    }
+]
